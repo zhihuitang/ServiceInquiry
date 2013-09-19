@@ -28,7 +28,7 @@ import android.widget.TextView;
 
 /*
  * 列出手机中所有开启的 Service
- * 
+ *  list all running service of android mobile
  */
 public class MainActivity extends Activity implements OnClickListener, OnItemClickListener {
 	TextView tvSummary;
