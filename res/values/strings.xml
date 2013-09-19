@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceInquiry</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stop_service">Are you sure to stop the service?</string>
+    <string name="stop_information">Try to stop a service may lead to an unexpected result.</string>
+    <string name="btn_stop">Stop Service</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="stop_fail">Stop Service Fail</string>
+    <string name="fail_reason">No permission, you cannot stop the service.</string>
+
+</resources>
